@@ -1,12 +1,12 @@
 # webapp-portal
 do-this.000webhostapp.com - 
-Projekt zrealizowany w ramach zajęć 'Bazy danych i aplikacje mobilne w internecie'. 
+Project carried out as part of the 'Databases and mobile applications on the Internet' course. 
 
-Jest to prosty portal internetowy umożliwiający 
-- rejestracje, 
-- logowanie, 
-- dodawanie postów, 
-- przeglądanie ich wg. kategorii lub holistycznie, 
-- wyświetlanie kont innych użytkowników. 
+It is a simple web portal that allows its users to: register, log in, add and view posts. 
+- register, 
+- log in, 
+- add posts, 
+- view and organise them by category, 
+- view other users' accounts. 
 
-Wykorzystuje on języki HTML, CSS, PHP, bazę danych MySQL oraz bibliotekę Bootstrap w wersji 5.
+It combines HTML, CSS, PHP MySQL DB and Bootstrap 5.
